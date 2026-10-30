@@ -1,0 +1,13 @@
+<resources>
+    <string name="empty_hint">Нажмите кнопку…</string>
+    <string name="app_name">Случайный фильм</string>
+    <string name="button_next">Следующий фильм</string>
+    <string name="button_reset">Сброс</string>
+    <string name="no_more_movies">Фильмы закончились!</string>
+
+    <string-array name="movies">
+        <item>Черная пантера</item>
+        <item>Человек Паук: Новый день</item>
+        <item>Лунный рыцарь</item>
+    </string-array>
+</resources>

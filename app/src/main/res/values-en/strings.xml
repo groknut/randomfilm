@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Random Movie</string>
+    <string name="button_next">Next Movie</string>
+    <string name="button_reset">Reset</string>
+    <string name="no_more_movies">No more movies left!</string>
+    <string name="empty_hint">Press the button…</string>
+
+    <string-array name="movies">
+        <item>The Shawshank Redemption</item>
+        <item>The Godfather</item>
+        <item>The Dark Knight</item>
+        <item>Pulp Fiction</item>
+        <item>Forrest Gump</item>
+    </string-array>
+
+</resources>
